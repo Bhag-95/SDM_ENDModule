@@ -1,0 +1,30 @@
+Software Requirement Specifications for Online Project Management
+
+Purpose:
+This system will help project managers,Delivery managers and higher stakeholders to create to new projects and keep a tab on the progress of ongoing projects.
+
+Scope:
+Project managers/Delivery Managers will be able to create projects and allocate the tasks to their respective team members. Respective team members will come the know about the allocated tasks to them and finish the task before the deadline.
+
+Functional Requirement:
+
+1.User Management- Every user will have its own credentials through which they can login. Depending upon the roles users will have different functionality.
+
+2.Roles Management- Depending upon the roles the software will provide different functionality to its user. As in Project Manager/Delivery Manager can create new projects, and allocate or distribute it among the team members. Team members can view only the task assigned to them and start performimg it and update it on regular basis. Project Manager/Delivery Manager can see the progress of project as well as particular team member throw personalizeed view.
+
+3.Project Managemnt- Multiple projects can be added simultaneously Project Manager/Delivery Manager by can be distributed amongst team members.
+
+4.Tasks Update- Project Manager/Delivery Manager can view the update of every task/project assigned to every individual.
+
+Non Functional Requirement:
+
+1.Security: Every account one's login should be able to see his own profile only. No one should be able to see others details. Login screen should be according to the roles specified.
+
+2.Scalability: System should be designed in such a way that it should be growable for increasing the number of users or project.
+
+3.User Friendly- System should be designed in such a way that it should be accessible to everyone without any problems.
+
+4.Availability: System should be available 24*7 without much downtime.
+
+5.Performance: Performance of the system should not degrade even if it performs tedious tasks or number of users/projects increase.
+

@@ -1,0 +1,25 @@
+Business Entities:
+
+User:
+UserID: It will be key assigned to the user.
+UserName: It will the store the name of the user of that particular userID. Every user will have its userName for login to the system.
+Password: Every user will has its own password whoch they will have to enter will login in.
+
+
+Roles:
+RoleID: It will be key assigned as per the roles.
+RoleName: RoleName will have all the specified roles.
+
+
+Task:
+TaskId: It will be generated as per the every new task.
+TaskName: It will the name assigned to that specific task.
+
+
+Project:
+ProjectId: New Id will be generated for every new Project.
+ProjectName: It will be name of the project of every new project created.
+PStartDate-It will store the start date of project.
+PEndDate- It will tell the project end date.
+Priority- It will tell the priority of that particular project.
+
